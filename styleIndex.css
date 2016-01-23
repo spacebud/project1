@@ -1,0 +1,20 @@
+<style>
+
+#header {
+  font-family:arial,helvetica,sans-serif;
+  font-size: 32px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+
+}
+
+#section {
+    width:350px;
+    font-size:32px;
+    float:left;
+    padding:10px;
+}
+
+</style>
